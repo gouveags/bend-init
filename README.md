@@ -41,6 +41,11 @@ def main() -> IO(Unit):
 
 Then run `bend init.bend hello-bend`.
 
+## Upstream
+
+Follow [bendlang/bend#917](https://github.com/bendlang/bend/issues/917) for the
+proposal to add a first-party `bend init` command.
+
 ## License
 
 [MIT](LICENSE)
